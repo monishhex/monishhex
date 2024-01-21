@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width="700" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif">
 
 <h1 align="center"><small>Hi there, I'm Monish!</small></h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monishhex" alt="monishhex" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monishhex" alt="monishhex" /></a> </p><br>
 
 - 🔭 I’m currently working on **devloping skills**
 
